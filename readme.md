@@ -360,7 +360,10 @@ VSCode团队为常见的编辑器提供了兼容的快捷键，让新入坑的�
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
+
+
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
+不像其他编辑器VSCode支持提示、高亮、现有的框架并且不需要其他检查插件，有一些规则已经内置在VSCode，你可以在官方文档的语言区域里找到需要的。
 
 ## 1C
 
@@ -393,6 +396,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 > Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
+> 
 
 ![CSS Peek](https://github.com/pranaygp/vscode-css-peek/blob/master/working.gif)
 
