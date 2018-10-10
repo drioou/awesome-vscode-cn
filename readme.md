@@ -26,9 +26,9 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Official 官方文档](#official-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
 - [Syntax 语法](#syntax-%08%E8%AF%AD%E6%B3%95)
 - [Migrating from other editors 从其他编辑器转过来的](#migrating-from-other-editors-%E4%BB%8E%08%E5%85%B6%E4%BB%96%E7%BC%96%E8%BE%91%E5%99%A8%E8%BD%AC%E8%BF%87%E6%9D%A5%E7%9A%84)
-  - [Migrating from Vim 从Vim加入的](#migrating-from-vim-%E4%BB%8Evim%E5%8A%A0%E5%85%A5%E7%9A%84)
-  - [Migrating from Atom](#migrating-from-atom)
-  - [Migrating from Sublime Text](#migrating-from-sublime-text)
+  - [Migrating from Vim 来自Vim](#migrating-from-vim-%E6%9D%A5%E8%87%AAvim)
+  - [[Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom](#migrating-from-atom-httpsmarketplacevisualstudiocomitemsitemnamems-vscodeatom-keybindings-%E6%9D%A5%E8%87%AAatom)
+  - [[Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text](#migrating-from-sublime-text-httpsmarketplacevisualstudiocomitemsitemnamems-vscodesublime-keybindings-%E6%9D%A5%E8%87%AAsublime-text)
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
 - [Lint and IntelliSense](#lint-and-intellisense)
@@ -333,15 +333,16 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 The VSCode team provides keymaps from popular editors, making the transition to VSCode almost seamless and easy.  
 VSCode团队为常见的编辑器提供了兼容的快捷键，让新入坑的同学减少学习的难度。
 
-## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) 从Vim加入的
+## [Migrating from Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) 来自Vim
 
-> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
+> **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features  
+> 最新和实用的功能，作者建议加入他们的Slack组去，以便获取更好的体验。
 
-## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
+## [Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom 
 
 > Popular Atom keybindings for Visual Studio Code
 
-## [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
+## [Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text
 
 > Popular Sublime Text keybindings for VS Code.
 
