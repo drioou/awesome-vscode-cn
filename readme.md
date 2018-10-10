@@ -289,11 +289,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
-<<<<<<< HEAD
 # Syntax 语法
-=======
-# Syntax  语法
->>>>>>> 722eabc620746e28fd15604b18f5accbaf7e85f0
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.  
 编辑器的语言扩展、语法高亮、特殊语言代码断、文件格式化  
