@@ -24,7 +24,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [awesome vsocde常用插件汉化学习](#awesome-vsocde%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E6%B1%89%E5%8C%96%E5%AD%A6%E4%B9%A0)
 - [Table of Contents 目录](#table-of-contents-%E7%9B%AE%E5%BD%95)
 - [Official 官方文档](#official-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
-- [Syntax 语法](#syntax-%08%E8%AF%AD%E6%B3%95)
+- [Syntax 语法](#syntax-%E8%AF%AD%E6%B3%95)
 - [Migrating from other editors 从其他编辑器转过来的](#migrating-from-other-editors-%E4%BB%8E%08%E5%85%B6%E4%BB%96%E7%BC%96%E8%BE%91%E5%99%A8%E8%BD%AC%E8%BF%87%E6%9D%A5%E7%9A%84)
   - [Migrating from Vim 来自Vim](#migrating-from-vim-%E6%9D%A5%E8%87%AAvim)
   - [[Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom](#migrating-from-atom-httpsmarketplacevisualstudiocomitemsitemnamems-vscodeatom-keybindings-%E6%9D%A5%E8%87%AAatom)
@@ -281,7 +281,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Contribute](#contribute)
 - [License](#license)
 
-# Official  官方文档
+# Official 官方文档
 
 - [Official website](https://code.visualstudio.com/)
 - [Source code](https://github.com/microsoft/vscode) on GitHub
@@ -289,7 +289,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
-# Syntax   语法
+# Syntax 语法
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.  
 编辑器的语言扩展、语法高亮、特殊语言代码断、文件格式化  
