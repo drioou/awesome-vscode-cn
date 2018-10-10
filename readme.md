@@ -29,8 +29,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Vim 来自Vim](#migrating-from-vim-%E6%9D%A5%E8%87%AAvim)
   - [[Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom](#migrating-from-atom-httpsmarketplacevisualstudiocomitemsitemnamems-vscodeatom-keybindings-%E6%9D%A5%E8%87%AAatom)
   - [[Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text](#migrating-from-sublime-text-httpsmarketplacevisualstudiocomitemsitemnamems-vscodesublime-keybindings-%E6%9D%A5%E8%87%AAsublime-text)
-  - [Migrating from Visual Studio](#migrating-from-visual-studio)
-  - [Migrating from Intellij IDEA](#migrating-from-intellij-idea)
+  - [Migrating from Visual Studio 来自Visual Studio](#migrating-from-visual-studio-%E6%9D%A5%E8%87%AAvisual-studio)
+  - [Migrating from Intellij IDEA 来自IDEA](#migrating-from-intellij-idea-%E6%9D%A5%E8%87%AAidea)
 - [Lint and IntelliSense](#lint-and-intellisense)
   - [1C](#1c)
   - [Bash](#bash)
@@ -338,19 +338,19 @@ VSCode团队为常见的编辑器提供了兼容的快捷键，让新入坑的�
 > **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features  
 > 最新和实用的功能，作者建议加入他们的Slack组去，以便获取更好的体验。
 
-## [Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom 
+## [Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom    
 
 > Popular Atom keybindings for Visual Studio Code
 
-## [Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text
+## [Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text 
 
 > Popular Sublime Text keybindings for VS Code.
 
-## [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings)
+## [Migrating from Visual Studio](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vs-keybindings) 来自Visual Studio 
 
 > Popular Visual Studio keybindings for VS Code.
 
-## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
+## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) 来自IDEA
 
 > Popular Intellij IDEA keybindings for VS Code.
 
