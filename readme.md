@@ -27,11 +27,11 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Syntax 语法](#syntax-%E8%AF%AD%E6%B3%95)
 - [Migrating from other editors 从其他编辑器转过来的](#migrating-from-other-editors-%E4%BB%8E%08%E5%85%B6%E4%BB%96%E7%BC%96%E8%BE%91%E5%99%A8%E8%BD%AC%E8%BF%87%E6%9D%A5%E7%9A%84)
   - [Migrating from Vim 来自Vim](#migrating-from-vim-%E6%9D%A5%E8%87%AAvim)
-  - [[Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom](#migrating-from-atom-httpsmarketplacevisualstudiocomitemsitemnamems-vscodeatom-keybindings-%E6%9D%A5%E8%87%AAatom)
-  - [[Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text](#migrating-from-sublime-text-httpsmarketplacevisualstudiocomitemsitemnamems-vscodesublime-keybindings-%E6%9D%A5%E8%87%AAsublime-text)
+  - [Migrating from Atom 来自Atom](#migrating-from-atom-%E6%9D%A5%E8%87%AAatom)
+  - [Migrating from Sublime Text 来自Sublime text](#migrating-from-sublime-text-%E6%9D%A5%E8%87%AAsublime-text)
   - [Migrating from Visual Studio 来自Visual Studio](#migrating-from-visual-studio-%E6%9D%A5%E8%87%AAvisual-studio)
   - [Migrating from Intellij IDEA 来自IDEA](#migrating-from-intellij-idea-%E6%9D%A5%E8%87%AAidea)
-- [Lint and IntelliSense](#lint-and-intellisense)
+- [Lint and IntelliSense 语法高亮检查](#lint-and-intellisense-%E8%AF%AD%E6%B3%95%E9%AB%98%E4%BA%AE%E6%A3%80%E6%9F%A5)
   - [1C](#1c)
   - [Bash](#bash)
   - [C++](#c)
@@ -338,11 +338,11 @@ VSCode团队为常见的编辑器提供了兼容的快捷键，让新入坑的�
 > **Vim Mode** - Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features  
 > 最新和实用的功能，作者建议加入他们的Slack组去，以便获取更好的体验。
 
-## [Migrating from Atom] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom    
+## [Migrating from Atom](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings) 来自Atom    
 
 > Popular Atom keybindings for Visual Studio Code
 
-## [Migrating from Sublime Text] (https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text 
+## [Migrating from Sublime Text](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings) 来自Sublime text   
 
 > Popular Sublime Text keybindings for VS Code.
 
@@ -350,11 +350,12 @@ VSCode团队为常见的编辑器提供了兼容的快捷键，让新入坑的�
 
 > Popular Visual Studio keybindings for VS Code.
 
-## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) 来自IDEA
+## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) 来自IDEA  
+<small> 我之前用的这个 但还是没有改快捷键
 
 > Popular Intellij IDEA keybindings for VS Code.
 
-# Lint and IntelliSense
+# Lint and IntelliSense 语法高亮检查
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
